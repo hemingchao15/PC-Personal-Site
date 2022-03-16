@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0 auto;
+}
+*{ padding:0 0;}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, 
+strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, 
+tfoot, thead, tr, th, td ,textarea,input { margin:0; padding:0;  }
+address,cite,dfn,em,var, i {font-style:normal;}
+body {font-size: 14px; line-height: 1.5; font-family:'Microsoft Yahei','simsun','arial','tahoma';  color: #333; }
+table { border-collapse:collapse; border-spacing:0; }
+h1, h2, h3, h4, h5, h6, th { font-size: 100%; font-weight: normal; }
+button,input,select,textarea{font-size:100%;}
+fieldset,img{border:0;}
+a,img {
+    -webkit-touch-callout: none
+}
+a,a:active,a:focus,a:hover,a:visited { color:#000; text-decoration: none}
+.dv-center{ margin-left: auto; margin-right: auto;}
+input[type=password],
+input[type=text],
+textarea {
+    resize: none;
+    outline: 0;
+    -webkit-appearance: none;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background: #fff
+}
+ul, ol { list-style: none; }
+:focus{ outline:none;}
+.clearfix{ clear: both; content: ""; display: block; overflow: hidden }
+.clear{clear: both;}
+.fl{ float: left; }
+.fr{float: right;}
+
+.nav a{
+	padding:0px 30px; line-height: 40px; display:inline-block; font-size: 16px;
+	}
+.nav a:hover{		
+		color:#000;
+		background-image:url(../images/lt.png); 
+	   }
+
+.nav a.cur{
+	color:#000;
+		background-image:url(../images/lt.png); 
+	}
+
+#dv1{ 
+	width:310px;
+float:left; 
+margin-left:40px;
+background-image:url(../images/lxwm.png) ; background-repeat:no-repeat; padding-top:90px;
+
+ }
+
+#dv2{ 
+ 
+ width:450px;
+float:left;
+margin-left:30px;
+background-image:url(../images/gsjj.png) ; background-repeat:no-repeat; padding-top:90px;
+
+	 }
+#dv3{  
+width:320px; 
+float:left;
+margin-left:30px;
+background-image:url(../images/xwzx.png) ; background-repeat:no-repeat; padding-top:90px;
+ }
+ 
+#foot{
+	
+	height:200px;
+	margin-bottom:20px;
+}
+ 
+.picdiv{
+	float:left;
+	width:300px;
+	height:233px;
+	padding-top:20px;
+	text-align:right;
+	padding-left:60px;
+	}
+
+.ab{
+	width:251px;
+	height:200px;
+	margin-left:25px;
+	}
+
+.ac{
+	width:400px;
+	height:200px;
+	margin-left:20px;
+	
+	}
+.news{
+	width:249px;
+	height:200px;
+	margin-left:25px;
+	}
+.dbu{
+	width:600px;
+	height:160px;
+	text-align:center;
+	color:#FFF;
+	line-height:40px;
+	margin-left: auto; margin-right: auto;
+	}
+	.dbu a{
+		color:#FFF;
+		}
+.key{
+	float:left;
+	margin-top:150px;
+	}
+.dtu{
+	width:233px;
+	height:233px;
+	float:left;}
+	
+	
+
+
+
+	
